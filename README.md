@@ -3,9 +3,9 @@
 
 **Ссылка на полный гайд по установке: **
 
-*1. [Установка питона:](https://disk.yandex.ru/i/Cn2hcPnPcCNNSQ) * 
+1. [Установка питона:](https://disk.yandex.ru/i/Cn2hcPnPcCNNSQ) 
 
-*2. [Настройка конфигурации и прочего](https://disk.yandex.ru/i/9FNjWcbReCsKBQ) *
+2. [Настройка конфигурации и прочего](https://disk.yandex.ru/i/9FNjWcbReCsKBQ)
 
 
 **Описание программы:  
