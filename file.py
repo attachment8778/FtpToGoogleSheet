@@ -181,9 +181,6 @@ def update_google_sheet():
 
     
 service_run()
-#loadfromftp(ftp_host, ftp_port, ftp_user, ftp_password, ftp_path, ftp_file)
-#xltojs(ftp_file, json_file, nameimen)
-
 
 
 
